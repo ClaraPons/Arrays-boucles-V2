@@ -1,18 +1,28 @@
 // 1 - Nombre pairs
 
+// let numbers = 0
+
 // for(let i = 11; i <= 47; i++){
 //     if(i % 2 === 0){
 //         console.log(i)
 //     }
+//     numbers = numbers + i
 // }
 
+// console.log(numbers)
+
 // 2 - Nombre impairs
+
+// let numbers = 0
 
 // for(let i = 108; i < 588; i++){
 //     if(i % 2 != 0){
 //         console.log(i)
 //     }
+//     numbers = numbers + i
 // }
+
+// console.log(numbers)
 
 // 3 - Puissance et racine carrée
 // const numbers = [1, 2, 3, 4, 5]
@@ -59,11 +69,16 @@
 
 // 7 - Factorielle v2
 
-let fact = 2
+// let fact = 1
 
-for (let i = 2; i <= 8; i++){ 
-    for (let j = 2; j <= i ; j++){
-         fact = fact * j// i = 0    j = 0
-        console.log(`!${j} = ${fact}`)
-    }
-}
+// for (let i = 0; i <= 8; i++){ 
+//     for (let j = 1; j <= i ; j++){
+//         fact = fact * j
+//     }
+//     console.log(`!${i} = ${fact}`)
+//     fact = 1
+// }
+
+// 8 - Somme des carrés
+
+
