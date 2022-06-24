@@ -69,14 +69,12 @@
 
 // 7 - Factorielle v2
 
-// let fact = 1
-
 // for (let i = 0; i <= 8; i++){ 
+//    let fact = 1
 //     for (let j = 1; j <= i ; j++){
 //         fact = fact * j
 //     }
 //     console.log(`!${i} = ${fact}`)
-//     fact = 1
 // }
 
 // 8 - Somme des carrés
