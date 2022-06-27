@@ -79,4 +79,36 @@
 
 // 8 - Somme des carrés
 
+// let squares = 0
+
+// for (let i = 5; i <= 10; i++){
+//     squares = squares + (i*i)
+//     console.log(squares)
+// }
+
+// 9 - Comptons
+
+// let modulo = []
+
+// for (let i = 100; i < 1000; i++){
+//     if(i % 7 === 0){
+//         modulo.push(i)
+//     }
+// }
+
+// console.log(modulo.length)
+
+//  10 - Chanceux
+
+// let array = []
+
+// for (let i = 0 ; i < 20; i++){
+//     min = 1
+//     max = 6 
+//     const random = Math.floor(Math.random() * max) + min
+//     if (random >= 5){
+//         array.push(random)
+//     }
+// }
+// console.log(array)
 
